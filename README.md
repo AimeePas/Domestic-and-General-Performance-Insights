@@ -1,16 +1,8 @@
 <img width="962" alt="image" src="https://github.com/user-attachments/assets/52f18e0e-d61e-4541-b9d9-2ba865b4ed82">
 
 
-Domestic & General is a UK-based insurance company that specializes in providing home appliance protection plans and warranties. Here's an overview of their services and key aspects:
-Overview:
-Founded: 1912
-Headquarters: London, UK
-Specialization: Appliance protection, including warranties and insurance for home appliances such as washing machines, dishwashers, and other household equipment.
-Key Services
-Appliance Protection Plans: Coverage for repairs or replacements of home appliances if they break down.
-Extended Warranties: Extensions beyond the manufacturer’s warranty period for home appliances.
-Home Emergency Cover: Provides support for home emergencies like plumbing or electrical failures.
-Insurance Products: Various insurance products related to home and appliance protection.
+<img width="960" alt="image" src="https://github.com/user-attachments/assets/a84d6607-d947-4d24-b06a-e304cb6a58a6">
+
 
 <img width="1139" alt="image" src="https://github.com/user-attachments/assets/b48b2507-5726-4662-a8cf-23c56cb1c120">
 <img width="929" alt="image" src="https://github.com/user-attachments/assets/feaa9b8b-e6a5-45ef-9188-7c87989e2b3d">
